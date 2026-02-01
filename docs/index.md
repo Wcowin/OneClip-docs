@@ -5,7 +5,7 @@ description: OneClip - 简单专业的 macOS 剪贴板管理工具
 
 <div align="center" markdown="1">
 
-![OneClip Logo](https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567){ width="120" }
+![OneClip Logo](https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567)
 
 # OneClip
 
@@ -33,8 +33,9 @@ OneClip 是一款专为 macOS 打造的**专业级剪贴板管理工具**。采�
     - ✅ **持续更新**：社群积极维护，快速响应用户反馈
     - ✅ **免费试用**：提供完整功能试用
 
-![OneClip 主界面](https://i.imgant.com/v2/RKyVhgF.png)
-
+![screenshot_1.5x_postspark_2025-12-08_18-46-39.png](https://s1.imagehub.cc/images/2026/01/12/651185803cf1d16d156b47928db3d537.png)  
+![screenshot_1.5x_postspark_2025-12-08_18-50-28.png](https://i.imgant.com/v2/Zn6arLh.png)
+![screenshot_1.5x_postspark_2025-12-08_19-02-21.png](https://s1.imagehub.cc/images/2026/01/12/a26a96c52c6a0629979cffe671bf8d27.png)
 ## 🎯 核心功能
 
 - **📋 智能记录**：自动保存剪贴板历史，支持文本、图片、文件等格式
