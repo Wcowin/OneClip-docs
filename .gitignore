@@ -1,0 +1,93 @@
+# macOS 系统文件
+.DS_Store
+**/.DS_Store
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.podspec
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code coverage / profiling
+*.gcno
+*.gcda
+*.profdata
+*.profraw
+
+# macOS 临时文件
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon
+._*
+
+# Thumbnails
+.Spotlight-V100
+.Trashes
+
+# 临时文件
+*.swp
+*~
+.*.sw[a-z]
+*.tmp
+*.bak
+
+# 日志文件
+*.log
+
+# IDE
+.vscode/
+.cursor/
+.idea/
+
+# 测试和调试
+*.dSYM.zip
+*.dSYM
+
+# 应用特定
+OneClip/ClipboardDataModel.xcdatamodeld/
+
+# Syncthing（按需下载，不纳入版本控制）
+OneClip/Resources/Syncthing/syncthing
+**/syncthing
+!**/SyncthingManager.swift
+!**/SyncthingDownloadManager.swift
+
+# 构建产物
+dist/debug/     # Debug 测试版本
+dist/builds/    # Release 构建版本
+
+oneclip-license/

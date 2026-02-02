@@ -38,12 +38,26 @@ nav = [
         { "核心功能" = "features/core-features.md" },
         { "快捷键设置" = "features/hotkeys.md" }
     ]},
-    { "购买许可证" = "purchase/index.md" },
-    { "技术文档" = [
-        { "架构设计" = "technical/architecture.md" }
+    { "购买许可证" = [
+        { "版本对比" = "purchase/index.md" },
+        { "月度版" = "purchase/monthly.md" },
+        { "年度版" = "purchase/yearly.md" },
+        { "终身版" = "purchase/lifetime.md" },
+        { "激活指南" = "purchase/activation.md" },
+        { "支付说明" = "purchase/payment.md" }
+    ]},
+    { "博客" = [
+        { "博客首页" = "blog/index.md" },
+        { "2026年最佳剪贴板管理工具" = "blog/best-clipboard-managers-2026.md" },
+        { "剪贴板工具对比" = "blog/clipboard-comparison.md" },
+        { "效率提升技巧" = "blog/efficiency-tips.md" },
+        { "Mac剪贴板历史记录" = "blog/mac-clipboard-history.md" },
+        { "OneClip vs Paste" = "blog/oneclip-vs-paste.md" },
+        { "快捷键使用指南" = "blog/shortcuts-guide.md" }
     ]},
     { "常见问题" = [
-        { "FAQ" = "help/faq.md" }
+        { "FAQ" = "help/faq.md" },
+        { "激活码全流程" = "help/activation-flow.md" }
     ]},
     { "关于" = [
         { "更新日志" = "about/changelog.md" },
@@ -58,7 +72,7 @@ custom_dir = "docs/overrides"          # 自定义主题目录（相对于配置
 logo = "https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567"
 language = "zh"
 
-# 主题功能特性
+# ===== 主题功能特性 =====
 features = [
     "announce.dismiss",
     "navigation.prune",
@@ -79,7 +93,9 @@ features = [
     "content.tooltips",
     "content.code.copy",
     "content.code.select",
-    "content.code.annotate"
+    "content.code.annotate",
+    "blog.index",
+    "blog.tags"
 ]
 
 # ===== 调色板配置 =====
@@ -117,6 +133,10 @@ repo = "lucide/github"
 [project.extra]
 generator = true
 
+# ===== 公告配置 =====
+[project.extra.announce]
+dismiss = true
+
 # ===== 社交媒体链接 =====
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
@@ -138,6 +158,25 @@ icon = "fontawesome/brands/qq"
 link = "https://qm.qq.com/q/ckSQ6MXgLm"
 name = "QQ群"
 
+[[project.extra.social]]
+icon = "fontawesome/brands/weixin"
+link = "https://oneclip.cloud/wechat"
+name = "微信公众号"
+
+# ===== 许可证配置 =====
+[project.extra.license]
+free_trial_days = 7
+monthly_price = "¥5"
+yearly_price = "¥50"
+lifetime_price = "¥29.90"
+max_devices = 5
+
+# ===== 支付配置 =====
+[project.extra.payment]
+alipay_enabled = true
+wechat_pay_enabled = true
+refund_days = 7
+
 # ==========================================
 # 插件配置
 # ==========================================
@@ -145,6 +184,16 @@ name = "QQ群"
 # ===== 搜索插件 =====
 [project.plugins.search]
 separator = '[\s\u200b\-]'
+
+# ===== 博客插件 =====
+[project.plugins.blog]
+blog_dir = "blog"
+post_url_format = "{slug}"
+
+# ===== 版权插件 =====
+[project.plugins.copyright]
+operator = "Wcowin"
+start_year = 2025
 
 # ==========================================
 # Markdown 扩展配置

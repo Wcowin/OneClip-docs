@@ -219,6 +219,6 @@ brew uninstall --cask oneclip
 如果以上解决方案无法解决您的问题：
 
 - 📧 邮件：[vip@oneclip.cloud](mailto:vip@oneclip.cloud)
-- 👥 QQ 群：[1060157293](https://qm.qq.com/q/xiImGHVMcM)
+- 👥 QQ 群：[1060157293](https://qm.qq.com/q/ckSQ6MXgLm)
 
 查看 [联系我们](../about/contact.md) 页面获取更多联系方式。

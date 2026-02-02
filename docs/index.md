@@ -174,7 +174,7 @@ sudo xattr -rd com.apple.quarantine /Applications/OneClip.app
 | 方式 | 链接 |
 |------|------|
 | 📧 **邮件** | [vip@oneclip.cloud](mailto:vip@oneclip.cloud) |
-| 👥 **QQ 群** | [1060157293](https://qm.qq.com/q/xiImGHVMcM) |
+| 👥 **QQ 群** | [1060157293](https://qm.qq.com/q/ckSQ6MXgLm) |
 | 🌐 **官网** | [https://oneclip.cloud](https://oneclip.cloud) |
 
 需要帮助？查看 [常见问题](help/faq.md) 或 [联系我们](about/contact.md)。
