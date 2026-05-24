@@ -68,7 +68,7 @@ nav = [
 # ===== 主题配置 =====
 [project.theme]
 variant = "modern"
-# custom_dir = "docs/overrides"          # 自定义主题目录（相对于配置文件）
+custom_dir = "docs/overrides"          # 自定义主题目录（相对于配置文件）
 logo = "https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567"
 language = "zh"
 
