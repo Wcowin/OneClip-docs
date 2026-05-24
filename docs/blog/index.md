@@ -34,7 +34,8 @@ OneClip 快捷键使用完全指南
 想要第一时间获取最新文章？关注我们的微信公众号或加入 QQ 群。
 
 - **微信公众号**：OneClip
-- **QQ 群**：[1060157293](https://qm.qq.com/q/ckSQ6MXgLm)
+- **QQ 群**：[1060157293](https://qm.qq.com/q/xiImGHVMcM)
+- **Telegram**：[https://t.me/+I7S6R0pw5180YzRl](https://t.me/+I7S6R0pw5180YzRl)
 
 ## 联系我们
 

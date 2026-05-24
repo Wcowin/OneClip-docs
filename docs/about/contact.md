@@ -51,7 +51,17 @@
 
 ### 👥 QQ 群
 
-**QQ 群号：** [1060157293](https://qm.qq.com/q/ckSQ6MXgLm)
+**QQ 群号：** [1060157293](https://qm.qq.com/q/xiImGHVMcM)
+
+### 📱 Telegram 群组
+
+**TG 群组：** [https://t.me/+I7S6R0pw5180YzRl](https://t.me/+I7S6R0pw5180YzRl)
+
+适用于：
+
+- 国际用户交流
+- 实时讨论
+- 获取最新资讯
 
 适用于：
 

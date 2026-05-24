@@ -398,5 +398,5 @@
 激活过程中遇到问题？联系我们：
 
 - **📧 邮件**：[vip@oneclip.cloud](mailto:vip@oneclip.cloud)
-- **💬 QQ 群**：[1060157293](https://qm.qq.com/q/ckSQ6MXgLm)
+- **💬 QQ 群**：[1060157293](https://qm.qq.com/q/xiImGHVMcM)
 - **🌐 官网**：[https://oneclip.cloud](https://oneclip.cloud)

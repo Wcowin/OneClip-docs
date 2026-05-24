@@ -155,8 +155,13 @@ name = "官方网站"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/qq"
-link = "https://qm.qq.com/q/ckSQ6MXgLm"
+link = "https://qm.qq.com/q/xiImGHVMcM"
 name = "QQ群"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/telegram"
+link = "https://t.me/+I7S6R0pw5180YzRl"
+name = "Telegram"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/weixin"

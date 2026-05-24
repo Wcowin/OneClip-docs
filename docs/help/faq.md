@@ -201,7 +201,7 @@ brew uninstall --cask oneclip
 **A: 购买方式：**
 
 - 官网购买：[https://oneclip.cloud/purchase](https://oneclip.cloud/purchase)
-- 使用优惠码：`OneClip2025`（10￥减免）
+- 使用优惠码：`OneClip2026`（5￥减免）
 
 **激活方式：**
 
@@ -219,6 +219,7 @@ brew uninstall --cask oneclip
 如果以上解决方案无法解决您的问题：
 
 - 📧 邮件：[vip@oneclip.cloud](mailto:vip@oneclip.cloud)
-- 👥 QQ 群：[1060157293](https://qm.qq.com/q/ckSQ6MXgLm)
+- 👥 **QQ 群**：[1060157293](https://qm.qq.com/q/xiImGHVMcM)
+- 📱 **Telegram**：[https://t.me/+I7S6R0pw5180YzRl](https://t.me/+I7S6R0pw5180YzRl)
 
 查看 [联系我们](../about/contact.md) 页面获取更多联系方式。
