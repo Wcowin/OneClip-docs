@@ -89,5 +89,6 @@ OneClip/Resources/Syncthing/syncthing
 # 构建产物
 dist/debug/     # Debug 测试版本
 dist/builds/    # Release 构建版本
+site/           # Zensical 生成的站点
 
 oneclip-license/
