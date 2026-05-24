@@ -9,7 +9,7 @@ site_name = "OneClip文档"
 site_url = "https://wcowin.github.io/OneClip/"
 site_description = "OneClip - 简单专业的 macOS 剪贴板管理工具"
 site_author = "Wcowin"
-copyright = "Copyright &copy; 2025 Wcowin"
+copyright = "Copyright &copy; 2026 Wcowin"
 docs_dir = "docs"
 site_dir = "site"
 use_directory_urls = true
@@ -125,7 +125,10 @@ toggle.name = "切换至日间模式"
 
 # ===== 图标配置 =====
 [project.theme.icon]
-repo = "lucide/github"
+repo = "fontawesome/brands/github"                      # 仓库图标
+previous = "fontawesome/solid/arrow-left"              # 上一页图标
+next = "fontawesome/solid/arrow-right"                 # 下一页图标
+alternate = "fontawesome/solid/language"               # 语言切换图标
 
 # ==========================================
 # 额外配置
@@ -198,7 +201,7 @@ post_url_format = "{slug}"
 # ===== 版权插件 =====
 [project.plugins.copyright]
 operator = "Wcowin"
-start_year = 2025
+start_year = 2026
 
 # ==========================================
 # Markdown 扩展配置
